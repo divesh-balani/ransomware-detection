@@ -1,4 +1,4 @@
-For all documentation, it can be viewed within github with no download required due to them being in pdf format. When unable to scroll more, look for the button at the bottom middle of the last page and click "Show More"to show more content.
+For all documentation, it can be viewed within github with no download required due to them being in pdf format. When unable to scroll more, look for the button at the bottom middle of the last page and click "More Pages" to show more content.
 
 #Secure Solution Implementation document
 
